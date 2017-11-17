@@ -6,5 +6,4 @@ package com.example.selim.pokedex.presenter;
 
 class MyPresenterImpl implements MyPresenter {
 
-    void load(int id);
 }

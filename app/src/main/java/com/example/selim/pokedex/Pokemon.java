@@ -8,18 +8,15 @@ package com.example.selim.pokedex;
     public class Pokemon {
 
         private String name;
-        private int weight;
-        private int height;
+        private int id;
+
 
         public String getName(){
             return name;
         }
-
-        public int getHeight() {
-            return height;
+        public int getId() {
+            return id;
         }
 
-        public int getWeight() {
-            return weight;
-        }
-    }
+
+}

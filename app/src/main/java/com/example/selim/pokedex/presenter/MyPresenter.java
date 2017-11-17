@@ -6,5 +6,5 @@ package com.example.selim.pokedex.presenter;
 
 public interface MyPresenter {
 
-res
+reso
 }

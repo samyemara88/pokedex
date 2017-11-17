@@ -2,10 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://D:\Windows Bureau\COURS\pokedex\Pokedex.iml" filepath="D:\Windows Bureau\COURS\pokedex\Pokedex.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Pokedex.iml" filepath="$PROJECT_DIR$/Pokedex.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
-      <module fileurl="file://D:\Windows Bureau\COURS\pokedex\app\app.iml" filepath="D:\Windows Bureau\COURS\pokedex\app\app.iml" />
-      <module fileurl="file://$PROJECT_DIR$/pokedex.iml" filepath="$PROJECT_DIR$/pokedex.iml" />
     </modules>
   </component>
 </project>

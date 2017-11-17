@@ -6,16 +6,14 @@ package com.example.selim.pokedex.viewmodel;
 
 public class PokemonViewModel {
     private final String name;
-    private final int weight;
-    private final int height;
+    private final int id;
 
-    public PokemonViewModel(String name, int weight, int height) {
+    public PokemonViewModel(String name, int id) {
         this.name = name;
-        this.weight = weight;
-        this.height = height;
+        this.id = id;
+
     }
 
     public String getName(){return name;}
-    public int getWeight(){return weight;}
-    public int getHeight() {return height;}
+    public int getId(){return id;}
 }
